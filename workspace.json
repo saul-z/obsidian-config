@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a61c0b816072a8aa",
+        "id": "34a8de68e60684d8",
         "type": "tabs",
         "children": [
           {
-            "id": "aba765dd1e9fa7b6",
+            "id": "fbd1cd2890eec030",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hollis八股文/hollis八股文.md",
+                "file": "编程相关/terminal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c5d79d47da2cc345",
+            "id": "560db03def11ce16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程相关/terminal.md",
+                "file": "编程相关/obsidian配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程相关/terminal.md",
+                "file": "编程相关/obsidian配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程相关/terminal.md",
+                "file": "编程相关/obsidian配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程相关/terminal.md"
+                "file": "编程相关/obsidian配置.md"
               }
             }
           }
@@ -163,17 +163,20 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c5d79d47da2cc345",
+  "active": "560db03def11ce16",
   "lastOpenFiles": [
     "编程相关/mac技巧.md",
+    "编程相关/obsidian配置.md",
+    "编程相关/attachments/CleanShot 2023-11-26 at 08.12.33@2x.png",
+    "编程相关/attachments/CleanShot 2023-11-26 at 12.29.00@2x.png",
     "编程相关/terminal.md",
-    "hollis八股文/hollis八股文.md",
+    "编程相关/attachments/CleanShot 2023-11-26 at 12.26.31@2x.png",
     "编程相关/linux.md",
+    "编程相关/attachments/CleanShot 2023-11-26 at 08.10.54@2x.png",
+    "hollis八股文/hollis八股文.md",
     "编程相关/yunvlog.com.md",
     "hollis八股文",
-    "编程相关/attachments/CleanShot 2023-11-26 at 08.12.33@2x.png",
     "编程相关/attachments/CleanShot 2023-11-26 at 08.10.26@2x.png",
-    "编程相关/attachments/CleanShot 2023-11-26 at 08.10.54@2x.png",
     "编程相关/attachments",
     "git.md",
     "未命名 1.md",

@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "5b41c4e140798102",
+    "type": "split",
+    "children": [
+      {
+        "id": "a61c0b816072a8aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aba765dd1e9fa7b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hollis八股文/hollis八股文.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5d79d47da2cc345",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程相关/terminal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "592157991155f6d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce5a2b6d0ed2a4e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c2f51cbdf2dee4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a086f43defb5525",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3b0a276c1876994",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2aff4883adfbd85e",
+    "type": "split",
+    "children": [
+      {
+        "id": "863190b813508226",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a79f3212b20b4428",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "编程相关/terminal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a328de28c1cbd09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "编程相关/terminal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5636d2d4d07070c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1882e61fce9512d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "编程相关/terminal.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "c5d79d47da2cc345",
+  "lastOpenFiles": [
+    "编程相关/mac技巧.md",
+    "编程相关/terminal.md",
+    "hollis八股文/hollis八股文.md",
+    "编程相关/linux.md",
+    "编程相关/yunvlog.com.md",
+    "hollis八股文",
+    "编程相关/attachments/CleanShot 2023-11-26 at 08.12.33@2x.png",
+    "编程相关/attachments/CleanShot 2023-11-26 at 08.10.26@2x.png",
+    "编程相关/attachments/CleanShot 2023-11-26 at 08.10.54@2x.png",
+    "编程相关/attachments",
+    "git.md",
+    "未命名 1.md",
+    "未命名.md",
+    "编程相关",
+    "backend",
+    "front"
+  ]
+}

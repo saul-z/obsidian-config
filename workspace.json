@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程相关/obsidian配置.md",
+                "file": "编程相关/linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程相关/obsidian配置.md",
+                "file": "编程相关/linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程相关/obsidian配置.md",
+                "file": "编程相关/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程相关/obsidian配置.md"
+                "file": "编程相关/linux.md"
               }
             }
           }
@@ -160,18 +160,20 @@
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
       "audio-recorder:开始/结束录音": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "560db03def11ce16",
   "lastOpenFiles": [
     "编程相关/mac技巧.md",
+    "编程相关/linux.md",
     "编程相关/obsidian配置.md",
+    "编程相关/ohmyzsh安装.md",
+    "编程相关/terminal.md",
     "编程相关/attachments/CleanShot 2023-11-26 at 08.12.33@2x.png",
     "编程相关/attachments/CleanShot 2023-11-26 at 12.29.00@2x.png",
-    "编程相关/terminal.md",
     "编程相关/attachments/CleanShot 2023-11-26 at 12.26.31@2x.png",
-    "编程相关/linux.md",
     "编程相关/attachments/CleanShot 2023-11-26 at 08.10.54@2x.png",
     "hollis八股文/hollis八股文.md",
     "编程相关/yunvlog.com.md",

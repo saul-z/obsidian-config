@@ -4,19 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c73f6296b1ad83bc",
+        "id": "bf2e04a4e538be0f",
         "type": "tabs",
         "children": [
           {
-            "id": "fe88bff9abe81211",
+            "id": "6a7d0aaa06ab4359",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程相关/ohmyzsh安装.md",
+                "file": "Front-End/css/绝对定位.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "2e896d5b0a388ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Back-End/Resume/简历模版.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cca4337dc4d764b4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -38,7 +58,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -85,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程相关/ohmyzsh安装.md",
+                "file": "Front-End/css/绝对定位.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程相关/ohmyzsh安装.md",
+                "file": "Front-End/css/绝对定位.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程相关/ohmyzsh安装.md"
+                "file": "Front-End/css/绝对定位.md"
               }
             }
           }
@@ -134,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,28 +171,52 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fe88bff9abe81211",
+  "active": "6a7d0aaa06ab4359",
   "lastOpenFiles": [
-    "编程相关/terminal.md",
-    "编程相关/linux.md",
+    "Back-End/Resume/专家.md",
+    "Front-End/css/绝对定位.md",
+    "Front-End/css",
+    "Back-End/Resume/简历模版.md",
+    "Back-End/Resume/attachments/CleanShot 2023-11-06 at 21.10.14@2x.png",
+    "Back-End/Resume/attachments/Java八股简历模板——应届1.docx",
+    "Back-End/hollis/hollis.md",
+    "Back-End/Resume/Java八股简历模板——应届1 1.docx",
+    "Back-End/Resume/简历模板—8年(架构).docx",
+    "Back-End/Resume/Java八股简历模板——3年.docx",
+    "Back-End/Resume/简历模板—5年.docx",
+    "Back-End/Resume/Java八股简历模板——应届1.docx",
+    "Back-End/Resume/attachments",
+    "Back-End/Resume",
+    "编程相关/mac好用软件/从0开始配mac.md",
+    "编程相关/java部署方案.md",
+    "Travel/笔记",
     "编程相关/ssh.md",
-    "编程相关/mac技巧.md",
     "编程相关/obsidian配置.md",
-    "编程相关/ohmyzsh安装.md",
+    "编程相关/linux 安装、部署.md",
+    "编程相关/mac技巧.md",
+    "编程相关/mac好用软件/Alfred 安装、设置.md",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126213356.png",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126212225.png",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126212336.png",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126212328.png",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126212316.png",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126212300.png",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126212248.png",
+    "视觉/摄像/未命名.md",
+    "编程相关/mac字体.md",
+    "编程相关/编程软件安装/mac homebrew相关.md",
+    "编程相关/编程软件安装/ohmyzsh安装.md",
+    "编程相关/terminal.md",
+    "编程相关/编程软件安装/mysql.md",
+    "编程相关/编程软件安装/nginx安装、配置.md",
+    "编程相关/编程软件安装/maven.md",
+    "编程相关/编程软件安装/jdk.md",
+    "编程相关/编程软件安装/git.md",
     "编程相关/attachments/CleanShot 2023-11-26 at 08.12.33@2x.png",
     "编程相关/attachments/CleanShot 2023-11-26 at 12.29.00@2x.png",
-    "编程相关/attachments/CleanShot 2023-11-26 at 12.26.31@2x.png",
-    "编程相关/attachments/CleanShot 2023-11-26 at 08.10.54@2x.png",
-    "hollis八股文/hollis八股文.md",
     "编程相关/yunvlog.com.md",
-    "hollis八股文",
-    "编程相关/attachments/CleanShot 2023-11-26 at 08.10.26@2x.png",
-    "编程相关/attachments",
     "git.md",
     "未命名 1.md",
-    "未命名.md",
-    "编程相关",
-    "backend",
-    "front"
+    "未命名.md"
   ]
 }

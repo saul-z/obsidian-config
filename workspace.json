@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "b2a4f161edfbe91f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5083884828ab88af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b0cc9a7cf456d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-End/css/绝对定位.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2a91224997acb39",
+    "type": "split",
+    "children": [
+      {
+        "id": "22470ca8dac30737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97030184e910ff6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9209229d8d20336c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3d5c498d612ec34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc27a5868290f771",
+    "type": "split",
+    "children": [
+      {
+        "id": "65cbdd44919cf19b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d9a79431dd2a2d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Front-End/css/绝对定位.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b33885bcf4d4a2c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Front-End/css/绝对定位.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed55b5a16e5cd93e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc15a39dfa3b1207",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Front-End/css/绝对定位.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "2b0cc9a7cf456d06",
+  "lastOpenFiles": [
+    "编程相关/ssh.md",
+    "视觉/摄像/未命名.md",
+    "编程相关/mac字体.md",
+    "编程相关/编程软件安装/jdk.md",
+    "编程相关/java部署方案.md",
+    "编程相关/编程软件安装/git.md",
+    "编程相关/编程软件安装/mysql.md",
+    "编程相关/linux 安装、部署.md",
+    "编程相关/编程软件安装/maven.md",
+    "Back-End/Resume/简历模版.md",
+    "Front-End/css/绝对定位.md",
+    "Back-End/Resume/专家.md",
+    "编程相关/编程软件安装/ohmyzsh安装.md",
+    "Back-End/hollis/hollis.md",
+    "编程相关/mac好用软件/从0开始配mac.md",
+    "编程相关/编程软件安装/nginx安装、配置.md",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126213356.png",
+    "编程相关/mac好用软件/Alfred 安装、设置.md",
+    "Back-End/Resume/简历模板—5年.docx",
+    "Back-End/Resume/简历模板—8年(架构).docx",
+    "编程相关/编程软件安装/mac homebrew相关.md",
+    "Back-End/Resume/Java八股简历模板——3年.docx",
+    "Back-End/Resume/Java八股简历模板——应届1.docx",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126212248.png",
+    "Back-End/Resume/Java八股简历模板——应届1 1.docx",
+    "Back-End/Resume/attachments/Java八股简历模板——应届1.docx",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126212300.png",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126212336.png",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126212328.png",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126212225.png",
+    "编程相关/mac好用软件/attachments/Pasted image 20231126212316.png",
+    "Back-End/Resume/attachments/CleanShot 2023-11-06 at 21.10.14@2x.png",
+    "编程相关/mac好用软件/attachments",
+    "Back-End/Resume/attachments",
+    "视觉/摄影",
+    "视觉/摄像"
+  ]
+}

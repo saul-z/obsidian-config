@@ -87,12 +87,23 @@
       "key": "Enter"
     }
   ],
-  "editor:delete-paragraph": [
+  "editor:delete-paragraph": [],
+  "hotkeysplus-obsidian:clear-current-line": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "Backspace"
     }
-  ]
+  ],
+  "hotkeysplus-obsidian:duplicate-lines-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "hotkeysplus-obsidian:toggle-embed": [],
+  "hotkeysplus-obsidian:better-toggle-todo": []
 }
